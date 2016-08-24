@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIController.js">
+    <Files>
+      <File FileName="Assets/Cannon.js" Line="18" Column="30" />
+      <File FileName="Assets/HiyokoCreator.js" Line="13" Column="3" />
+      <File FileName="Assets/ObjMove.js" Line="11" Column="34" />
+      <File FileName="Assets/DestroyBall.js" Line="4" Column="8" />
+      <File FileName="Assets/Score.js" Line="13" Column="36" />
+      <File FileName="Assets/UIController.js" Line="16" Column="5" />
+      <File FileName="Assets/DeathZone.js" Line="14" Column="37" />
+      <File FileName="Assets/LoadGame.js" Line="8" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
